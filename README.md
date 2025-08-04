@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<html>
 <html lang="ms">
 <head>
   <meta charset="UTF-8">
-  <title>eBook</title>
+  <title>e-BookLog Pasukan Gerakan Am (PGA)</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,11 +14,11 @@
 
 
  
-<!DOCTYPE html>
+<html>
 <html lang="ms">
 <head>
   <meta charset="UTF-8">
-  <title>eBookLog PGA</title>
+  <title>e-BookLog Pasukan Gerakan Am (PGA)</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
